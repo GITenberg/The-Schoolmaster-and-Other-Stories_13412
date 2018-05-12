@@ -1,0 +1,50 @@
+_repo: The-Schoolmaster-and-Other-Stories_13412
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Garnett, Constance
+    alias: Black, Constance Clara
+    birthdate: 1861
+    deathdate: 1946
+    gutenberg_agent_id: '2858'
+    url: http://www.gutenberg.org/2009/agents/2858
+    wikipedia:
+    - http://www.womenofbrighton.co.uk/constanceblackgarnett.htm
+    - http://en.wikipedia.org/wiki/Constance_Garnett
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Chekhov, Anton Pavlovich
+    aliases:
+    - Tchekhov, Anton
+    - Chekov, Anton Pavlovich
+    - Tshehov, Anton
+    - Чехов, Антон Павлович
+    birthdate: 1860
+    deathdate: 1904
+    gutenberg_agent_id: '708'
+    url: http://www.gutenberg.org/2009/agents/708
+    wikipedia: http://en.wikipedia.org/wiki/Anton_Chekhov
+description: ''
+gutenberg_issued: '2004-09-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13412'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PG'
+- !lcsh 'Russia -- Social life and customs -- Fiction'
+- !lcsh 'Chekhov, Anton Pavlovich, 1860-1904 -- Translations into English'
+tableOfContents: The schoolmaster -- Enemies -- The examining magistrate -- Betrothed
+  -- From the diary of a violent-tempered man -- In the dark -- A play -- A mystery
+  -- Strong impressions -- Drunk -- The marshal's widow -- A bad business -- In the
+  court -- Boots -- Joy -- Ladies -- A peculiar man -- At the barber's -- An inadvertence
+  -- The album -- Oh! The public -- A tripping tongue -- Overdoing it -- The orator
+  -- Malingerers -- In the graveyard -- Hush! -- In an hotel -- In a strange land.
+title: The Schoolmaster and Other Stories
+url: http://www.gutenberg.org/ebooks/13412
