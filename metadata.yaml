@@ -28,6 +28,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/708
     wikipedia: http://en.wikipedia.org/wiki/Anton_Chekhov
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/13412#The-Schoolmaster-and-Other-Stories
 gutenberg_issued: '2004-09-09'
 gutenberg_type: Text
 identifiers:
