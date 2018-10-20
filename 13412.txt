@@ -45,35 +45,35 @@ Translated by CONSTANCE GARNETT
 CONTENTS
 
 
-THE SCHOOLMASTER
-ENEMIES
-THE EXAMINING MAGISTRATE
-BETROTHED
-FROM THE DIARY OF A VIOLENT-TEMPERED MAN
-IN THE DARK
-A PLAY
-A MYSTERY
-STRONG IMPRESSIONS
-DRUNK
-THE MARSHAL'S WIDOW
-A BAD BUSINESS
-IN THE COURT
-BOOTS
-JOY
-LADIES
-A PECULIAR MAN
-AT THE BARBER'S
-AN INADVERTENCE
-THE ALBUM
-OH! THE PUBLIC
-A TRIPPING TONGUE
-OVERDOING IT
-THE ORATOR
-MALINGERERS
-IN THE GRAVEYARD
-HUSH!
-IN AN HOTEL
-IN A STRANGE LAND
+     THE SCHOOLMASTER
+     ENEMIES
+     THE EXAMINING MAGISTRATE
+     BETROTHED
+     FROM THE DIARY OF A VIOLENT-TEMPERED MAN
+     IN THE DARK
+     A PLAY
+     A MYSTERY
+     STRONG IMPRESSIONS
+     DRUNK
+     THE MARSHAL'S WIDOW
+     A BAD BUSINESS
+     IN THE COURT
+     BOOTS
+     JOY
+     LADIES
+     A PECULIAR MAN
+     AT THE BARBER'S
+     AN INADVERTENCE
+     THE ALBUM
+     OH! THE PUBLIC
+     A TRIPPING TONGUE
+     OVERDOING IT
+     THE ORATOR
+     MALINGERERS
+     IN THE GRAVEYARD
+     HUSH!
+     IN AN HOTEL
+     IN A STRANGE LAND
 
 
 
@@ -3170,7 +3170,7 @@ The day on which it was intended to despatch it to the journal was
 a very memorable one for him. Navagin remembers that on that
 never-to-be-forgotten day the secretary who had made a fair copy
 of his article and the sacristan of the parish who had been sent
-for on business were in his study. Nayagin's face was beaming. He
+for on business were in his study. Navagin's face was beaming. He
 looked lovingly at his creation, felt between his fingers how thick
 it was, and with a happy smile said to the secretary:
 
@@ -4336,7 +4336,7 @@ the murder?"
 . . . ."
 
 "Why did you hide yourself, if it was not you that committed the
-murder?
+murder?"
 
 "I was frightened. . . . I was afraid I might be judged guilty. . . ."
 
@@ -4399,7 +4399,7 @@ that the accused was suffering from temporary aberration?"
 The president raised his drowsy indifferent eyes to the counsel for
 the defence. The assistant prosecutor tore himself from "Cain," and
 looked at the president. They merely looked, but there was no smile,
-no surprise, no perplexity-their faces expressed nothing.
+no surprise, no perplexity--their faces expressed nothing.
 
 "Perhaps," the doctor hesitated, "if one considers the force with
 which . . . er--er--er . . . the criminal strikes the blow. . . .
